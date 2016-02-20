@@ -38,7 +38,7 @@ Let make a simple line-of-business application.
 
 * Data Analytics - Data needs to be pushed into Data Warehouse so that banks can read  "inbetween transactions" to see whats happening in real-world in order to recalibrate decisions and make better data-driven decisions.
 
-Refer JPMorgan's Silicon valley is coming soon.
+This is what JPMorgan CEO is saying Silicon valley is coming soon!
 
 
 ## Why Clojure?
@@ -46,3 +46,5 @@ Refer JPMorgan's Silicon valley is coming soon.
 Clojure thrives in developing complex systems.  When domain itself is this complext, building a distibuted system is quite daunting.  We deserve best help from work horses such as programming language, libraries, databases, messaging systems to create such system.
 
 Clojure allows isomorphic web applications.  Same code on server and hetrogeneous clients including mobile means, reduced development effort.
+
+Clojure is a functional language (dialect of LISP) runs on many of the bank's CIO/CTO approved JVM.  It also runs on all browsers. Functonal programming leaves very less room do mistaks we do in imperative languges.  Need to learn Map, Reduce, Filter, apply concepts in the face of immutability instead of loops, getter/setters, in place modification such as x = x + 1 etc.
